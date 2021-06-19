@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/simonelopess/cursonodejs/issues"
   },
-  "homepage": "https://github.com/simonelopess/cursonodejs#readme"
+  "homepage": "https://github.com/simonelopess/cursonodejs#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
