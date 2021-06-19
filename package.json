@@ -1,0 +1,19 @@
+{
+  "name": "portal_noticias",
+  "version": "1.0.0",
+  "description": "Site de noticias",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonelopess/cursonodejs.git"
+  },
+  "author": "Simone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonelopess/cursonodejs/issues"
+  },
+  "homepage": "https://github.com/simonelopess/cursonodejs#readme"
+}
