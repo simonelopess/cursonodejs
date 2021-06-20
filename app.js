@@ -1,7 +1,5 @@
-var express = require('express');
-var app = express();
-app.set('view engine', 'ejs');
 
+const app = require('./config/server')
 
 app.get('/', function (req, res) {
     res.render('home/index')
@@ -17,5 +15,5 @@ app.get('/noticias', function (req, res) {
 
 
 app.listen(3000, function () {
-    console.log('Servidor rodando com express');
+    console.log('Servidor Online');
 });
